@@ -1,0 +1,5 @@
+var usernamefirst = prompt( 'Enter your first name')
+var usernamesecond = prompt( 'Enter your second name')
+alert('welcome ' +  usernamefirst +  usernamesecond  + '!')
+alert("this website is about to learn java script")
+document.write(nusernamefirst)
